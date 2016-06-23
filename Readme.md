@@ -12,6 +12,4 @@
 
 ## Expected error
 
-```
-Uncaught TypeError: Cannot read property 'join' of undefined
-``
+`Uncaught TypeError: Cannot read property 'join' of undefined`
