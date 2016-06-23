@@ -1,0 +1,11 @@
+{
+  "name": "meteor-keen-js-test",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "keen-js": "^3.4.1",
+    "meteor-node-stubs": "~0.2.0"
+  }
+}
