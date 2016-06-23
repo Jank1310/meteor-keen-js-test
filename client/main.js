@@ -1,6 +1,6 @@
 import { Template } from 'meteor/templating';
 import { ReactiveVar } from 'meteor/reactive-var';
-import keen from 'keen-js';
+import Keen from 'keen-js';
 
 var keenClient = new Keen({
   projectId: "YOUR_PROJECT_ID",
