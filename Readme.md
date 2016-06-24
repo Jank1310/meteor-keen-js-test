@@ -1,5 +1,14 @@
 # Keen-js meteor client test
 
+## Problem solved! See https://github.com/keen/keen-js/issues/413
+
+Instead of `keen-js` use:
+
+* https://github.com/keen/keen-tracking.js
+* https://github.com/keen/keen-analysis.js
+* https://github.com/keen/keen-dataviz.js
+
+
 
 ## Start
 
